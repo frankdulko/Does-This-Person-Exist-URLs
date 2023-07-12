@@ -1,0 +1,5 @@
+Go to ThisPersonDoesNotExist.com and you will be greeted by a randomly generated face. The AI image generator was trained on billions of human faces in order to create one that does not exist. This is possible using a style-based generative adversarial network (StyleGAN).
+
+On the other hand, ThisPersonDoesExist.com displays the dataset behind this famous architecture. The dataset, known as Flickr-Faces-HQ is a collection of high resolution images made available by the NVIDIA Corporation under the creative commons license in 2018.
+
+Can you tell the difference between a real human face and an AI generated one? This app offers the opportunity to seamlessly swipe between a face picked randomly from either the real dataset or created from “This Person Does Not Exist.” Does this person exist? Swipe left for no or right for yes!
